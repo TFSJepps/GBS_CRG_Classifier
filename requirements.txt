@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+transformers==5.17.0
+sentencepiece==0.2.2
+protobuf==7.36.2
+pillow==12.3.0
+tqdm==4.70.1
+msal==1.39.0
+requests==2.34.2
+truststore==0.10.5
